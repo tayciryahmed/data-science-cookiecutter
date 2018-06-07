@@ -1,0 +1,9 @@
+{
+"eventTime": "2017-08-28 20:20:36",
+"env":"DEV",
+"app_name":"my-api",
+"logType":"debug",
+"usrName":"c18730",
+"src":"172.16.0.45",
+"message": "my log message"
+}
